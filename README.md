@@ -33,8 +33,8 @@ This project demonstrates how to run two FastAPI applications concurrently insid
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-dualapp-docker.git
-cd fastapi-dualapp-docker
+git clone https://github.com/Sajid-Hameed63/FastAPI-DualApp-Docker
+cd FastAPI-DualApp-Docker
 ```
 
 ### Step 2: Build the Docker Image
